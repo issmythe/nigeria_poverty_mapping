@@ -1,0 +1,120 @@
+﻿dhs_name,nlss_name,first_component,one_weight,zero_weight
+QH101_11 Source of drinking water: Piped into dwelling,main_water_PIPED INTO DWELLING,0.021093607,0.152902311,-0.002909892
+QH101_12 Source of drinking water: Piped to yard/plot,main_water_PIPED INTO YARD/PLOT,0.006746111,0.058087611,-0.000783452
+QH101_13 Source of drinking water: Piped to neighbor,main_water_PIPED TO NEIGHBOR,0.002227344,0.02970613,-0.000167
+QH101_14 Source of drinking water: Public tap/standpipe,main_water_PUBLIC TAP/STANDPIPE,0.003982704,0.014177146,-0.00111881
+QH101_21 Source of drinking water: Tube well or borehole,main_water_TUBE WELL/BOREHOLE,0.016229162,0.021574552,-0.012207864
+QH101_31 Source of drinking water: Protected well,main_water_PROTECTED DUG WELL,-0.001477387,-0.004264502,0.000511811
+QH101_32 Source of drinking water: Unprotected well,main_water_UNPROTECTED DUG WELL,-0.040290014,-0.100308272,0.016182565
+QH101_41 Source of drinking water: Protected spring,main_water_PROTECTED SPRING,0.000771441,0.008503471,-6.99839E-05
+QH101_42 Source of drinking water: Unprotected spring,main_water_UNPROTECTED SPRING,-0.01021001,-0.074210402,0.001404678
+QH101_51 Source of drinking water: Rainwater,main_water_RAIN WATER COLLECTION,-0.000129954,-0.000788139,2.14271E-05
+QH101_61 Source of drinking water: Tanker truck,main_water_TANKER TRUCK,0.006502508,0.074456168,-0.000567872
+QH101_71 Source of drinking water: Cart with small tank,main_water_WITH SMALL TANK/DRUM,0.000888074,0.006739332,-0.000117023
+QH101_81 Source of drinking water: Surface water (river/dam/lake/pond/stream/canal/irrigation channel),"main_water_SURFACE WATER (RIVER,STREAM, POND, DAMN,CANAL)",-0.028175796,-0.076274819,0.010407837
+QH101_91 Source of drinking water: Bottled water,main_water_BOTTLED WATER,0.014635521,0.203510489,-0.001052492
+QH101_92 Source of drinking water: Sachet water,main_water_SACHET WATER,0.039301986,0.135643417,-0.011387268
+QH101_96 Source of drinking water: Other,main_water_OTHER(SPECIFY),0.0005678,0.015525263,-2.07655E-05
+QH109_11 Type of toilet facility: Flush to piped sewer system,sanitation_type_FLUSH TO PIPED SEWAGE SYSTEM,0.024270692,0.141146139,-0.004173348
+QH109_12 Type of toilet facility: Flush to septic tank,sanitation_type_FLUSH TO SEPTIC TANK,0.050319995,0.154237021,-0.016416546
+QH109_13 Type of toilet facility: Flush to pit latrine,sanitation_type_FLUSH TO PIT LATRINE,0.017237698,0.088675083,-0.003350782
+QH109_14 Type of toilet facility: Flush to somewhere else,sanitation_type_FLUSH TO SOMEWHERE ELSE,0.007745246,0.1039949,-0.00057683
+"QH109_15 Type of toilet facility: Flush, don't know where",,0.001428691,0.082911268,-2.4618E-05
+QH109_21 Type of toilet facility: Ventilated improved pit latrine,sanitation_type_VENTILIATED IMPROVED LATRINE,-0.002393834,-0.017446739,0.000328445
+QH109_22 Type of toilet facility: Pit latrine with slab,sanitation_type_PIT LATRINE WITH SLAB,-0.003921427,-0.009765024,0.001574723
+QH109_23 Type of toilet facility: Pit latrine without slab/open pit,sanitation_type_PIT LATRINE W/O SLAB/OPEN PIT,-0.036541027,-0.098735528,0.013523132
+QH109_31 Type of toilet facility: Composting toilet,sanitation_type_COMPOSTING TOILET,-0.001636591,-0.064512532,4.15169E-05
+QH109_41 Type of toilet facility: Bucket toilet,sanitation_type_BUCKET,0.00127742,0.037049763,-4.40424E-05
+QH109_51 Type of toilet facility: Hanging toilet/hanging latrine,sanitation_type_HANGING TOILET/HANGING LATRINE,-0.003158239,-0.088862016,0.000112244
+QH109_61 Type of toilet facility: No facility/bush/field,"sanitation_type_NO FACILITIES,BUSH, OR FIELD",-0.042555974,-0.068050794,0.026611977
+QH109_96 Type of toilet facility: Other,sanitation_type_OTHER (SPECIFY),0.000240275,0.01007052,-5.73265E-06
+QH109_11_sh Type of toilet facility: Flush to piped sewer system - shared,,0.0102206,0.110002421,-0.000949598
+QH109_12_sh Type of toilet facility: Flush to septic tank - shared,,0.023494985,0.107500569,-0.005134863
+QH109_13_sh Type of toilet facility: Flush to pit latrine - shared,,0.016488866,0.075124529,-0.003619004
+QH109_14_sh Type of toilet facility: Flush to somewhere else - shared,,0.002919787,0.055394939,-0.000153894
+QH109_21_sh Type of toilet facility: Ventilated improved pit latrine - shared,,0.006866273,0.059233962,-0.000795904
+QH109_22_sh Type of toilet facility: Pit latrine with slab - shared,,0.007366652,0.022468009,-0.002415266
+QH109_23_sh Type of toilet facility: Pit latrine without slab/open pit - shared,,-0.012852263,-0.058705075,0.002813668
+QH109_31_sh Type of toilet facility: Composting toilet - shared,,-0.00011682,-0.005124188,2.66317E-06
+QH109_41_sh Type of toilet facility: Bucket toilet - shared,,-0.000165489,-0.00678994,4.03333E-06
+QH109_51_sh Type of toilet facility: Hanging toilet/hanging latrine - shared,,0.003643306,0.035860901,-0.000370134
+QH113_1 Type of cooking fuel: Electricity,cookstovetype_ELECTRIC STOVE,0.009934491,0.117900958,-0.000837073
+QH113_2 Type of cooking fuel: LPG,cookstovetype_LPG/NATURAL GAS STOVE,0.053566496,0.157800957,-0.018183023
+QH113_3 Type of cooking fuel: Natural gas,cookstovetype_LPG/NATURAL GAS STOVE,0.017945668,0.190390095,-0.001691469
+QH113_4 Type of cooking fuel: Biogas,,0.006771281,0.166189528,-0.000275884
+QH113_5 Type of cooking fuel: Kerosene,cookstovetype_KEROSENE STOVE,0.03693621,0.094504832,-0.014435768
+"QH113_6 Type of cooking fuel: Coal, lignite",,0.005014348,0.061612747,-0.000408082
+QH113_7 Type of cooking fuel: Charcoal,"cookstovetype_MANUFACTURED BIOMASS STOVE (CHARCOAL, WOOD, CROP RESIDUE, ETC.)",0.013615394,0.0588337,-0.00315082
+QH113_8 Type of cooking fuel: Wood,"cookstovetype_MANUFACTURED BIOMASS STOVE (CHARCOAL, WOOD, CROP RESIDUE, ETC.)",-0.070222552,-0.049909617,0.098800294
+QH113_9 Type of cooking fuel: Straw/shrubs/grass,"cookstovetype_MANUFACTURED BIOMASS STOVE (CHARCOAL, WOOD, CROP RESIDUE, ETC.)",-0.009854517,-0.116745746,0.0008318
+QH113_10 Type of cooking fuel: Agricultural crop or animal dung,"cookstovetype_MANUFACTURED BIOMASS STOVE (CHARCOAL, WOOD, CROP RESIDUE, ETC.)",-0.003826222,-0.11214992,0.000130536
+QH113_95 Type of cooking fuel: No food cooked in household,,-0.006973071,-0.053877847,0.000902458
+QH113_96 Type of cooking fuel: Other,cookstovetype_OTHER (SPECIFY),-0.000282668,-0.023200594,3.44384E-06
+QH121A Electricity,electricity,0.076115415,0.068401514,-0.084697147
+QH121B Radio,numasset_radio,0.049647894,0.041615546,-0.059229126
+QH121C Television,numasset_tv,0.08457216,0.089783505,-0.079661328
+QH121D Telephone (non-mobile),,0.008127469,0.102009729,-0.000647528
+QH121E Computer,numasset_computer,0.044471677,0.176510792,-0.011204307
+QH121F Refrigerator,numasset_fridge,0.072128118,0.142683344,-0.036460715
+QH121G Table,numasset_table,0.065073281,0.051856914,-0.08165598
+QH121H Chair,numasset_chair,0.048204598,0.023968902,-0.096943353
+QH121I Bed,numasset_bed,0.021003431,0.005480361,-0.080493462
+QH121J Sofa,numasset_sofa,0.033786445,0.045424626,-0.025129445
+QH121K Cupboard,,0.040403546,0.047617698,-0.034281501
+QH121L Air conditioner,numasset_ac,0.034260399,0.200489243,-0.005854408
+QH121M Electric iron,numasset_iron,0.080674464,0.122941784,-0.052937316
+QH121N Generator,numasset_generator,0.065280177,0.105348939,-0.0404503
+QH121O Fan,numasset_fan,0.087647519,0.089325382,-0.085999045
+QH122A Watch,,0.057620751,0.051406548,-0.06458455
+QH122B Mobile telephone,has_mobile_phone,0.044682532,0.017288105,-0.115482832
+QH122C Bicycle,numasset_bike,-0.007451853,-0.019649736,0.002825928
+QH122D Motorcycle or scooter,numasset_motorbike,0.001832945,0.002852681,-0.0011777
+QH122E Animal-drawn cart,,-0.015197393,-0.087913724,0.002627065
+QH122F Car or Truck,numasset_car,0.0441702,0.138768619,-0.014059074
+QH122G Boat with a motor,,0.005088305,0.057602798,-0.000449461
+QH122H Canoe,,0.000466454,0.002721116,-7.99574E-05
+QH122I Keke Napep,,0.006397692,0.070093704,-0.000583925
+QH123 Bank account,,0.07667685,0.080998651,-0.072583849
+QH142_11 Main floor material: Earth/sand,floortype_SAND/DIRT/STRAW,-0.068130416,-0.114695153,0.040469354
+QH142_12 Main floor material: Dung,,-0.00806753,-0.125260423,0.000519585
+QH142_21 Main floor material: Wood planks,floortype_WOOD,-0.002127715,-0.042727351,0.000105952
+QH142_22 Main floor material: Palm/bamboo,,-0.001382426,-0.07707807,2.47938E-05
+QH142_31 Main floor material: Parquet or polished wood,floortype_WOOD,-0.000391972,-0.008539231,1.7992E-05
+QH142_32 Main floor material: Vinyl or asphalt strips,,0.000734572,0.038127501,-1.4152E-05
+QH142_33 Main floor material: Ceramic tiles,floortype_TILE,0.041215221,0.141367524,-0.01201586
+QH142_34 Main floor material: Cement,floortype_SMOOTH CEMENT/CONCRETE,0.030850461,0.025180159,-0.037796721
+QH142_35 Main floor material: Carpet,,0.020104972,0.087166781,-0.004637087
+QH142_96 Main floor material: Other,floortype_OTHER(SPECIFY),-0.000856855,-0.030930726,2.37363E-05
+QH143_11 Main roof material: No roof,,-0.004119568,-0.124801345,0.000135979
+QH143_12 Main roof material: Thatch/palm leaf,rooftype_THATCH (GRASS OR STRAW),-0.047384264,-0.152718758,0.014701619
+QH143_13 Main roof material: Mud,rooftype_MUD,-0.014278743,-0.148567202,0.001372291
+QH143_21 Main roof material: Rustic mat,,-0.012176061,-0.150467272,0.000985283
+QH143_22 Main roof material: Palm/bamboo,,-0.015409022,-0.139543386,0.001701493
+QH143_23 Main roof material: Wood planks,,-0.003153637,-0.105632469,9.41489E-05
+QH143_31 Main roof material: Metal/zinc,rooftype_ZINC SHEET,0.038250696,0.018017289,-0.081204199
+QH143_32 Main roof material: Wood,,-0.00628534,-0.101641264,0.000388666
+QH143_33 Main roof material: Calamine/cement fiber,,0.011493297,0.109439463,-0.001206993
+QH143_34 Main roof material: Ceramic tiles,rooftype_CLAY TILES,0.003882299,0.081735246,-0.000184399
+QH143_35 Main roof material: Cement,rooftype_CONCRETE/CEMENT,0.006334667,0.052551172,-0.00076358
+QH143_36 Main roof material: Roofing shingles,,0.009808728,0.056642042,-0.00169854
+QH143_96 Main roof material: Cardboard or Other,rooftype_OTHER (SPECIFY),-0.00788521,-0.129642893,0.000479587
+QH144_11 Main wall material: No walls,,-0.018945142,-0.104769954,0.003425691
+QH144_12 Main wall material: Cane/palm/trunks,,-0.028382632,-0.143399075,0.005617567
+QH144_13 Main wall material: Dirt,wallstype_MUD,-0.014594235,-0.109388303,0.001947068
+QH144_21 Main wall material: Bamboo with mud,wallstype_WOOD OR BAMBOO,-0.034381176,-0.111691796,0.010583015
+QH144_22 Main wall material: Stone with mud,wallstype_STONE,-0.04095925,-0.103994007,0.016131878
+QH144_23 Main wall material: Uncovered adobe,wallstype_MUD,-0.008484083,-0.101406907,0.000709793
+QH144_24 Main wall material: Plywood,wallstype_WOOD OR BAMBOO,-0.001363366,-0.028091185,6.61674E-05
+QH144_26 Main wall material: Reused wood,wallstype_WOOD OR BAMBOO,-0.001389104,,
+QH144_31 Main wall material: Cement,wallstype_CEMENT OR CONCRETE,0.057588169,,
+QH144_32 Main wall material: Stone with lime/cement,wallstype_STONE,0.002589472,,
+QH144_33 Main wall material: Bricks,wallstype_BURNT BRICKS,-0.013116904,,
+QH144_33 Main wall material: Bricks,wallstype_UNBURNT BRICKS,-0.013116904,,
+QH144_34 Main wall material: Cement blocks,wallstype_CEMENT OR CONCRETE,0.023187707,,
+QH144_35 Main wall material: Covered adobe,wallstype_MUD,0.000363392,,
+QH144_36 Main wall material: Wood planks/shingles,wallstype_WOOD OR BAMBOO,-0.00306694,,
+QH144_96 Main wall material: Cardboard or Other,wallstype_CARDBOARD,-0.001966303,,
+QH144_96 Main wall material: Cardboard or Other,wallstype_OTHER  (SPECIFY),-0.001966303,,
+HOUSE Owns a house,,-0.007124268,,
+LAND Owns land,,-0.048905483,,
+memsleep Number of members per sleeping room,memsleep,-0.011875532,,
